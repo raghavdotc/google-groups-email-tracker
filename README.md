@@ -43,8 +43,7 @@ Architecture -
 7) Tabular View of counts of emails sent to each client  @ APP_URL/dashboard
 8) Sometimes, as soon as you login freshly, there are background jobs running to update the email records, 
    and before they finish running, the data on the dashboard might be wrong.
-9) As an additional step, we could stop the access to an dashboards for sometime, while there are jobs running in the background
-   and possibly ask the user to be notified once the jobs finish running.
+9) As an additional step, we could stop the access to the dashboards for sometime, while there are jobs running in the     background and possibly ask the user to be notified once the jobs finish running.
    
 
 
