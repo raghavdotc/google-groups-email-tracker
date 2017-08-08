@@ -1,6 +1,7 @@
 # google-groups-email-tracker
 
-Schema :
+Schema : 
+
 btape.sql in the rool folder contains dump of the schema.
 
 Setup:
