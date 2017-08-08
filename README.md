@@ -1,5 +1,8 @@
 # google-groups-email-tracker
 
+Schema :
+btape.sql in the rool folder contains dump of the schema.
+
 Setup:
 1. Clone Repo
 2. Run composer install
@@ -42,6 +45,7 @@ Architecture -
 9) As an additional step, we could stop the access to an dashboards for sometime, while there are jobs running in the background
    and possibly ask the user to be notified once the jobs finish running.
    
+
 
 
 
